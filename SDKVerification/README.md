@@ -1,7 +1,7 @@
 
 SDKVerification App
 ===
-SDKVerification App 은 oneM2M SDK를 이용한 oneM2M API 동작과 ThingPlug서버와 연동이 정상적인지 확인 하기위한 App입니다.
+SDKVerification App 은 ThingPlug Simple SDK를 이용한 ThingPlug Simple API 동작과 ThingPlug서버와 연동이 정상적인지 확인 하기위한 App입니다.
 
 ## 동작
 앱 실행시  

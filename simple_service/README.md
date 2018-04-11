@@ -1,12 +1,12 @@
 
-SDKVerification App
+Service App
 
 ===
-SDKVerification App 은 oneM2M SDK를 이용한 oneM2M API 동작과 ThingPlug서버와 연동이 정상적인지 확인 하기위한 App입니다.
+Service App 은 ThingPlug Simple SDK를 이용한 ThingPlug IoT Device의 원격 상태조회, 제어가 가능한 App 입니다.
 
 ## 동작
 앱 실행시  
-   - Connect , Subscribed, sendAttribute, sendTelemetry 동작이 정상적으로 이루어지는지 보여 줍니다.
+   - ThingPlug 에 등록된 IoT Device의 원격 상태조회, 제어가 가능한 화면을 보여 줍니다.
    
-![](SDKVerification.png)
+![](Service.png)
 Copyright (c) 2017 SK Telecom Co., Ltd. All Rights Reserved.
